@@ -1,6 +1,6 @@
 # Návod k aplikaci Fotoměření v4
 
-**Fotoměření bylo vyvinuto pro měření obálky budov zvenku.** Vyfotografujte budovu zvenku a měřte její fasády, okna, dveře a další prvky obálky přímo na pořízených snímcích.Z fotografie můžete změřit délky, rozměry oken a dveří, plochy a úhly. Nejdříve aplikaci ukážete skutečně vodorovné a svislé hrany a zadáte známé rozměry. Teprve potom začnete měřit.
+**Fotoměření bylo vyvinuto pro měření obálky budov zvenku.** Vyfotografujte budovu zvenku a měřte její fasády, okna, dveře a další prvky obálky přímo na pořízených snímcích. Z fotografie můžete změřit délky, rozměry oken a dveří, plochy a úhly. Nejdříve aplikaci ukážete skutečně vodorovné a svislé hrany a zadáte známé rozměry. Teprve potom začnete měřit.
 
 Návod platí pro [fotomereni-prototyp-v4.html](fotomereni-prototyp-v4.html). Ovládání a chování jsou popsané podle verze uložené v projektu k 6. 11. 2026.
 
