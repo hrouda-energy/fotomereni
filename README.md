@@ -1,6 +1,6 @@
 # Fotoměření v4
 
-Fotoměření pomáhá měřit délky, rozměry otvorů, plochy a úhly z fotografie. Pro nastavení měřítka použijte známé rozměry ve stejné rovině jako měřené prvky.
+**Fotoměření bylo vyvinuto pro měření obálky budov zvenku.** Vyfotografujte budovu zvenku a přímo na snímcích měřte délky, rozměry oken a dveří, plochy a úhly. Pro nastavení měřítka použijte známé rozměry ve stejné rovině jako měřené prvky.
 
 ## Stažení a spuštění
 
